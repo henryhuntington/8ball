@@ -33,3 +33,15 @@ header .logo {
 main {
     padding: 20px;
 }
+
+.hide {
+    display: none;
+}
+
+#one {
+    width: 300px;
+}
+
+.frog {
+    width: 300px;
+}
